@@ -1,0 +1,26 @@
+a:active {
+    font-weight: bold;
+}
+a {
+    color: white;
+}
+.home, .contact, .about, .offer {
+    font-weight: bold;
+}
+li {
+    width: 50px;
+}
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.container {
+    height: 70px;
+    background-color: #2b2b2b;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    flex-wrap: nowrap;
+}
